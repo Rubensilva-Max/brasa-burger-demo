@@ -1,0 +1,15 @@
+BRASA BURGER — SITE DEMONSTRATIVO
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador ou publique os arquivos em um repositório GitHub conectado à Vercel.
+
+Personalização antes de apresentar a um cliente:
+- Troque nome, textos, preços e produtos em index.html.
+- As fotos são imagens online do Unsplash e precisam de internet para carregar.
+- Para ativar os botões de pedido, abra script.js e preencha WHATSAPP_NUMBER com DDI + DDD + número, somente dígitos. Exemplo de formato: 5582991234567.
+- Ajuste cores e tipografia em style.css.
+
+Os produtos, preços e a marca Brasa Burger são fictícios e servem apenas para demonstração.
+
+Imagem local adicionada: assets/double-cheddar.jpg (foto do produto Double Cheddar).
